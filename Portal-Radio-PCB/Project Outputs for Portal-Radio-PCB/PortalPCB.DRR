@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PortalPCB.PcbDoc   3/7/2025  7:12:32 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PortalPCB.TXT
+EIA File   : PortalPCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.399mm)                                           Round             3         PTH        0.06inch (1.60mm)
+T2      24mil (0.599mm)                                           Round             140       PTH        39.91inch (1013.73mm)
+T3      30mil (0.762mm)                                           Round             53        PTH        18.98inch (481.97mm)
+T4      39mil (1.001mm)                                           Round             2         PTH        0.74inch (18.75mm)
+T5      118mil (3mm)                                              Round             4         PTH        11.72inch (297.81mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              202
+
+Total Processing Time (hh:mm:ss) : 00:00:00
