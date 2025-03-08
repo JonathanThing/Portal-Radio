@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: IOBoard.PcbDoc   3/7/2025  11:24:34 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : IOBoard-RoundHoles.TXT
+ASCII SlotHoles File : IOBoard-SlotHoles.TXT
+EIA File   : IOBoard.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      30mil (0.762mm)                                           Round             4         PTH        0.30inch (7.62mm)
+T2      118mil (3mm)                                              Round             2         PTH        0.39inch (10.00mm)
+T3      32mil (0.81mm)                                            Slot              4         NPTH       1.34inch (34.05mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              10
+
+Total Processing Time (hh:mm:ss) : 00:00:00
